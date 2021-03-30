@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   { // ----------------------------------------------------------------------- checked
     pid: 0,
     isTokenOnly: true,
-    lpSymbol: 'TAL',
+    lpSymbol: 'SNAKES',
     lpAddresses: {
       97: '',
       56: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32',  // checked
     },
-    tokenSymbol: 'TAL',
+    tokenSymbol: 'SNAKES',
     tokenAddresses: {
       97: '',
       56: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32', // checked
@@ -20,12 +20,12 @@ const farms: FarmConfig[] = [
   },
   { // ----------------------------------------------------------------------- checked
     pid: 1,
-    lpSymbol: 'TAL-BUSD LP',
+    lpSymbol: 'SNAKES-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x33357122c1d474e8216e40621AD5AB560eFba582', // checked
     },
-    tokenSymbol: 'TAL',
+    tokenSymbol: 'SNAKES',
     tokenAddresses: {
       97: '',
       56: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32', // checked
@@ -35,12 +35,12 @@ const farms: FarmConfig[] = [
   },
   { // ----------------------------------------------------------------------- checked
     pid: 2,
-    lpSymbol: 'TAL-BNB LP',
+    lpSymbol: 'SNAKES-BNB LP',
     lpAddresses: {
       97: '',
       56: '0xCc3a2C98D6CCBd7b410173286a156BC290A88613', // checked
     },
-    tokenSymbol: 'TAL',
+    tokenSymbol: 'SNAKES',
     tokenAddresses: {
       97: '',
       56: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32', // checked

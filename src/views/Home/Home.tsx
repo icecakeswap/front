@@ -101,8 +101,8 @@ const Home: React.FC = () => {
           <a href="https://swap.snakeswap.live/#/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32">
             <Button variant="subtle">
               {TranslateString(733, 'BUY')}{' '}
-              <img src="/images/farms/snakeswap.png" alt="TAL Token" width="70" height="70" />{' '}
-              {TranslateString(734, 'TAL Token Now!')}
+              <img src="/images/farms/snakeswap.png" alt="SNAKES Token" width="70" height="70" />{' '}
+              {TranslateString(734, 'SNAKES Token Now!')}
             </Button>
           </a>
         </Heading>

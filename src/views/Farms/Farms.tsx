@@ -359,11 +359,11 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
       <Header>
         <Heading as="h1" size="xxl" color="secondary" mb="24px">
           {tokenMode
-            ? TranslateString(10002, 'Stake tokens to earn TAL')
-            : TranslateString(320, 'Stake LP tokens to earn TAL')}
+            ? TranslateString(10002, 'Stake tokens to earn SNAKES')
+            : TranslateString(320, 'Stake LP tokens to earn SNAKES')}
         </Heading>
         <Heading size="lg" color="text">
-          {TranslateString(10000, 'Deposit Fee will be used to buyback TAL')}
+          {TranslateString(10000, 'Deposit Fee will be used to buyback SNAKES')}
         </Heading>
         <Text>
           <AddressLink

@@ -81,7 +81,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total de TAL brûlé depuis le lancement"
+        "text": "Total de SNAKES brûlé depuis le lancement"
       }
     },
     {
@@ -129,13 +129,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Déposez vos LP pour gagner des TAL"
+        "text": "Déposez vos LP pour gagner des SNAKES"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake TAL, get SYRUP."
+        "text": "Stake SNAKES, get SYRUP."
       }
     },
     {
@@ -159,7 +159,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Chaque fois que vous déposez et retirez des TAL, le contrat récoltera automatiquement les récompenses TAL pour vous!"
+        "text": "Chaque fois que vous déposez et retirez des SNAKES, le contrat récoltera automatiquement les récompenses SNAKES pour vous!"
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Prix du TAL"
+        "text": "Prix du SNAKES"
       }
     },
     {
@@ -249,7 +249,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 TAL = 1 SYRUP"
+        "text": "1 SNAKES = 1 SYRUP"
       }
     },
     {
@@ -297,7 +297,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of TAL block emissions each day (10 TAL per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of SNAKES block emissions each day (10 SNAKES per block), Rewards are distributed each block."
       }
     },
     {
@@ -357,13 +357,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% TAL"
+        "text": "%num% SNAKES"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend TAL to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend SNAKES to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +441,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% TAL Available"
+        "text": "%num% SNAKES Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 TAL"
+        "text": "Your amount must be a multiple of 10 SNAKES"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 TAL"
+        "text": "1 Ticket = 10 SNAKES"
       }
     },
     {
@@ -501,7 +501,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your TAL cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your SNAKES cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "TAL prizes to be claimed"
+        "text": "SNAKES prizes to be claimed"
       }
     },
     {
@@ -549,13 +549,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve TAL"
+        "text": "Approve SNAKES"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of TAL block emissions each day (10 TAL per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of SNAKES block emissions each day (10 SNAKES per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +573,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using TAL-BNB LP tokens, which means you need to stake equal amounts of TAL and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using SNAKES-BNB LP tokens, which means you need to stake equal amounts of SNAKES and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get TAL-BNB LP >"
+        "text": "Get SNAKES-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, SnakeSwap DeFi Finance burns the TAL."
+        "text": "The project gets the BNB, SnakeSwap DeFi Finance burns the SNAKES."
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "TAL Stats"
+        "text": "SNAKES Stats"
       }
     },
     {
@@ -669,7 +669,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "Nouveau TAL\/bloc"
+        "text": "Nouveau SNAKES\/bloc"
       }
     },
     {
@@ -681,19 +681,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "TAL à récolter"
+        "text": "SNAKES à récolter"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "TAL en portefeuille"
+        "text": "SNAKES en portefeuille"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Récolter les TAL"
+        "text": "Récolter les SNAKES"
       }
     },
     {
@@ -705,7 +705,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "TAL à récolter"
+        "text": "SNAKES à récolter"
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Déposer des TAL pour en gagner d'autres."
+        "text": "Déposer des SNAKES pour en gagner d'autres."
       }
     },
     {
@@ -789,7 +789,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "TAL à bruler (USD)"
+        "text": "SNAKES à bruler (USD)"
       }
     },
     {
@@ -801,7 +801,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest TAL rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest SNAKES rewards for you!"
       }
     },
     {
@@ -819,13 +819,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy TAL and BNB tokens"
+        "text": "Buy SNAKES and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get TAL-BNB LP tokens by adding TAL and BNB liquidity"
+        "text": "Get SNAKES-BNB LP tokens by adding SNAKES and BNB liquidity"
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your TAL-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your SNAKES-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +873,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for TAL, or keep for your collection!"
+        "text": "Trade in for SNAKES, or keep for your collection!"
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive TAL, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive SNAKES, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +945,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a TAL value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a SNAKES value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for TAL"
+        "text": "Trade in for SNAKES"
       }
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn TAL"
+        "text": "Stake LP tokens to earn SNAKES"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The TAL Lottery"
+        "text": "The SNAKES Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with TAL"
+        "text": "Buy tickets with SNAKES"
       }
     },
     {
@@ -1239,7 +1239,7 @@
     {
       "data": {
         "stringId": 734,
-        "text": "du $TAL maintenant!"
+        "text": "du $SNAKES maintenant!"
       }
     },
     {
@@ -1305,7 +1305,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Les frais de dépôt seront utilisés pour racheter des TAL"
+        "text": "Les frais de dépôt seront utilisés pour racheter des SNAKES"
       }
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Déposer vos tokens pour gagner des TAL"
+        "text": "Déposer vos tokens pour gagner des SNAKES"
       }
     },
     {

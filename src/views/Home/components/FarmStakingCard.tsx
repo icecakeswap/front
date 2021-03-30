@@ -61,11 +61,11 @@ const FarmedStakingCard = () => {
         </Heading>
         <CardImage src="/images/cake.svg" alt="cake logo" width={64} height={64} />
         <Block>
-          <Label>{TranslateString(544, 'TAL to Harvest')}:</Label>
+          <Label>{TranslateString(544, 'SNAKES to Harvest')}:</Label>
           <CakeHarvestBalance />
         </Block>
         <Block>
-          <Label>{TranslateString(546, 'TAL in Wallet')}:</Label>
+          <Label>{TranslateString(546, 'SNAKES in Wallet')}:</Label>
           <CakeWalletBalance />
         </Block>
         <Actions>
@@ -77,7 +77,7 @@ const FarmedStakingCard = () => {
               width="100%"
             >
               {pendingTx
-                ? TranslateString(548, 'Collecting TAL')
+                ? TranslateString(548, 'Collecting SNAKES')
                 : TranslateString(532, `Harvest all (${balancesWithValue.length})`)}
             </Button>
           ) : (

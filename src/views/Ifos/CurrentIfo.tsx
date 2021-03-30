@@ -53,7 +53,7 @@ const Ifo = () => {
           </List>
           <Flex mb="16px">
             <LinkExternal href="https://swap.snakeswap.live/#/swap" mr="16px">
-              {TranslateString(1060, 'Buy TAL')}
+              {TranslateString(1060, 'Buy SNAKES')}
             </LinkExternal>
             <LinkExternal href="https://swap.snakeswap.live/#/add/ETH/0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32">
               {TranslateString(1062, 'Get LP tokens')}
