@@ -28,6 +28,6 @@
     "radix": 0,
     "import/no-extraneous-dependencies": 0,
     "jsx-a11y/media-has-caption": 0
-    // End temporary rules
+    // End temporary rules11
   }
 }
