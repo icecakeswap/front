@@ -23,7 +23,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SNAKES-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x33357122c1d474e8216e40621AD5AB560eFba582', // checked
+      56: '0x838287f83469a5f6a8eec5a308d185be89c4b6b8', // checked
     },
     tokenSymbol: 'SNAKES',
     tokenAddresses: {
@@ -38,7 +38,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SNAKES-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xCc3a2C98D6CCBd7b410173286a156BC290A88613', // checked
+      56: '0x580f7e3963a0eff0444412038bfb517607366989', // checked
     },
     tokenSymbol: 'SNAKES',
     tokenAddresses: {
