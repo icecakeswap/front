@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SNAKES',
     lpAddresses: {
       97: '',
-      56: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767',  // checked
+      56: '0x09f1b8b2e401a18fda3f662cd95d7032eeb1d753',  // checked
     },
     tokenSymbol: 'SNAKES',
     tokenAddresses: {
       97: '',
-      56: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767', // checked
+      56: '0x09f1b8b2e401a18fda3f662cd95d7032eeb1d753', // checked
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -28,7 +28,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'SNAKES',
     tokenAddresses: {
       97: '',
-      56: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767', // checked
+      56: '0x09f1b8b2e401a18fda3f662cd95d7032eeb1d753', // checked
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -43,7 +43,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'SNAKES',
     tokenAddresses: {
       97: '',
-      56: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767', // checked
+      56: '0x09f1b8b2e401a18fda3f662cd95d7032eeb1d753', // checked
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
