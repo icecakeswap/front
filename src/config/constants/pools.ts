@@ -7,7 +7,7 @@ const pools: PoolConfig[] = [
     tokenLabel: 'BUSD v0',
     tokenAddress: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
     stakingTokenName: QuoteToken.SNAKES,
-    stakingTokenAddress: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32', // checked
+    stakingTokenAddress: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767', // checked
     contractAddress: {
       97: '',
       56: '0x96960e759a02FB2ca3F5ddb972AB8f08ce00b85c',
@@ -28,7 +28,7 @@ const pools: PoolConfig[] = [
     tokenLabel: 'BUSD v1',
     tokenAddress: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
     stakingTokenName: QuoteToken.SNAKES,
-    stakingTokenAddress: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32', // checked
+    stakingTokenAddress: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767', // checked
     contractAddress: {
       97: '',
       56: '0x5D5731f0c44d3c8E08407e6029649BD0a78145e1',
@@ -49,7 +49,7 @@ const pools: PoolConfig[] = [
     tokenLabel: 'WBNB v1',
     tokenAddress: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
     stakingTokenName: QuoteToken.SNAKES,
-    stakingTokenAddress: '0x660F25d08D2d8A2dD55659B6F0dd94f973fa9B32', // checked
+    stakingTokenAddress: '0x2ac5460ae303adc0a72a9db03efe25aec6c87767', // checked
     contractAddress: {
       97: '',
       56: '0x7eC0A8139085dc0b20c2Ea25A0CD3c1094c55e36',
